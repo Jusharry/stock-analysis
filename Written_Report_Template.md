@@ -1,9 +1,18 @@
-# stock-analysis challenge
+# Kickstarting with Excel
 
 ## Overview of Project
-To perform an analysis and comparison of outcomes based on methods of execution .
-The purpoe of this analysis was to help Steve analyze his dataset and quickly calculate the result based on values provided
-### Results
+
+### Purpose
+
+## Analysis and Challenges
+
+### Analysis of Outcomes Based on Launch Date
+
+### Analysis of Outcomes Based on Goals
+
+### Challenges and Difficulties Encountered
+
+## Results
 
 - What are two conclusions you can draw about the Outcomes based on Launch Date?
 
