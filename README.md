@@ -9,13 +9,11 @@ These results were reproducible repeatedly as seen below:
 #### Image links
 https://github.com/Jusharry/stock-analysis/blob/06707b27b633026dc621ab27ad4b63f447e8bcad/Resources/All_Stock_Analysis_2017.png- All stock analysis result (2017)
 https://github.com/Jusharry/stock-analysis/blob/06707b27b633026dc621ab27ad4b63f447e8bcad/Resources/VBA_Challenge_2017.png - VBA challenge result (2017) 
-https://github.com/Jusharry/stock-analysis/blob/06707b27b633026dc621ab27ad4b63f447e8bcad/Resources/All_Stock_Analysis_2018.png -All stock analysis result (2018)
-https://github.com/Jusharry/stock-analysis/blob/06707b27b633026dc621ab27ad4b63f447e8bcad/Resources/VBA_Challenge_2018.png - VBA challenge result (2018)
+
 
 Code differences seen here :
 #### Code links
 https://github.com/Jusharry/stock-analysis/blob/2cd8666d63d47cb3b4cee08637ce287cd0fb82ac/Resources/All_Stock_Analysis_code.png
-https://github.com/Jusharry/stock-analysis/blob/2cd8666d63d47cb3b4cee08637ce287cd0fb82ac/Resources/VBA_Challenge_code.png
 
 Differences in stock performance for the given years:
 ### Stock Comparison
