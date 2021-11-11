@@ -7,7 +7,7 @@ The purpose of this analysis was to help Steve analyze his dataset and quickly c
 Using code refactoring I was able to reduce the overall calcultion time for both data sets (2017 and 2018) by a considerble amount .
 These results were reproducible repeatedly as seen below:
 #### Image links
-https://github.com/Jusharry/stock-analysis/blob/06707b27b633026dc621ab27ad4b63f447e8bcad/Resources/All_Stock_Analysis_2017.png- All stock analysis result (2017)
+![Screnshot](Resources/All_Stock_Analysis_2017.png)
 
 https://github.com/Jusharry/stock-analysis/blob/4a861946a7bbfbbe16d5ad1ca747bf689560275c/Resources/VBA_Challenge%202017.png=VBA result 2017
 
